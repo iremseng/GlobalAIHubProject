@@ -1,6 +1,6 @@
 #Global AI Hub Project
 
-Global AI Hub Python Bootcamp etkinliği kapsamında verilen Proje 1'yee ait açıklamalar bu dosyada bulunmaktadır.
+Global AI Hub Python Bootcamp etkinliği kapsamında verilen Proje 1'ye ait açıklamalar bu dosyada bulunmaktadır.
 
 Proje 1 gereği bir öğrenci not sistemi oluşturulmuş ve aşağıda istenenler sağlanmıştır.
 
